@@ -36,10 +36,10 @@ pygmentsUseClasses = true
   #   createIssueManually = true
   #   distractionFreeMode = false
 
-  [[params.links]]
-    title = "Link"
-    href = "https://github.com/xxrrxnb"
-    icon = "https://xxrrxnb.github.io/images/avatar.png"
+#   [[params.links]]
+#     title = "Link"
+#     href = "https://github.com/xxrrxnb"
+#     icon = "https://xxrrxnb.github.io/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
