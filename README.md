@@ -1,1 +1,1 @@
-Power by Emacs + hugo
+Power by Emacs + hugo + ox-hugo
