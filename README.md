@@ -4,3 +4,4 @@ Power by Emacs + hugo + ox-hugo + Arch Linux
 
 博客搭建记录：
 1. 删除默认的Actions，需要在Github仓库设置中配置Pages发布，由依赖分支切换为Action
+2. 仓库设置为私有
