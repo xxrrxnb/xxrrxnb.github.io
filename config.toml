@@ -22,18 +22,18 @@ pygmentsUseClasses = true
   custom_css = ["css/custom.css"]
   custom_js = ["js/custom.js"]
 
-  [params.gitalk]
-    clientID = "Your client ID"
-    clientSecret = "Your client secret"
-    repo = "repo"
-    owner = "xxrrxnb"
-    admin = "xxrrxnb"
-    id = "location.pathname"
-    labels = "gitalk"
-    perPage = 15
-    pagerDirection = "last"
-    createIssueManually = true
-    distractionFreeMode = false
+  # [params.gitalk]
+  #   clientID = "Your client ID"
+  #   clientSecret = "Your client secret"
+  #   repo = "repo"
+  #   owner = "xxrrxnb"
+  #   admin = "xxrrxnb"
+  #   id = "location.pathname"
+  #   labels = "gitalk"
+  #   perPage = 15
+  #   pagerDirection = "last"
+  #   createIssueManually = true
+  #   distractionFreeMode = false
 
   [[params.links]]
     title = "Link"
